@@ -1,5 +1,3 @@
-
-
 👋 Hi, I’m Nitesh Kumar
 🌱 I’m working as Angular Devloper in Advanta Inc from  jan 22.
 💞️ I’m looking to forward to explore MEAN Stack.
